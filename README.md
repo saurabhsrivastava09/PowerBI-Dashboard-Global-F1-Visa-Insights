@@ -1,5 +1,3 @@
-# PowerBI-Dashboard-Global-F1-Visa-Insights
-
 # Global F1 Visa Insights Dashboard
 
 ## Project Overview
