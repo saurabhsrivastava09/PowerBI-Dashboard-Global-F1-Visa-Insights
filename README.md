@@ -13,5 +13,4 @@ Ultimately, it serves as a strategic tool that is easy to use, visually clean, a
 
 
 ![Global_F1_VISA_Mobile_Landscape](https://github.com/user-attachments/assets/d867addd-737c-4a0e-8071-07ecc400ac24)
-<img width="1419" alt="Global_F1_VISA_Desktop" src="https://github.com/user-attachments/assets/3344e330-7777-4489-8bd4-85f32ff5bebb" />
 
