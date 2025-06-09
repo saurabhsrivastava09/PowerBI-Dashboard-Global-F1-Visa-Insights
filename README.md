@@ -12,5 +12,6 @@ Beyond standard metrics, the dashboard aims to uncover surprising trends and "fu
 Ultimately, it serves as a strategic tool that is easy to use, visually clean, and provides insights in seconds, supporting data-driven decision-making.
 
 
+
 ![Global_F1_VISA_Mobile_Landscape](https://github.com/user-attachments/assets/d867addd-737c-4a0e-8071-07ecc400ac24)
 
